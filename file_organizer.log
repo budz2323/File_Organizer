@@ -1,0 +1,31 @@
+2026-02-04 13:38:24,251 - INFO - [DRY RUN] Would move reports.pdf-> pdf/
+2026-02-04 13:38:24,251 - INFO - [DRY RUN] Would move text.txt-> txt/
+2026-02-04 13:38:24,251 - INFO - [DRY RUN] Would move image.jpg-> jpg/
+2026-02-04 13:46:14,191 - INFO - Starting file organization
+2026-02-04 13:46:14,192 - INFO - Target diretoy:sample_data
+2026-02-04 13:46:14,192 - INFO - Dry run mode: True
+2026-02-04 13:46:14,192 - INFO - [DRY RUN] Would move reports.pdf-> pdf/
+2026-02-04 13:46:14,192 - INFO - [DRY RUN] Would move text.txt-> txt/
+2026-02-04 13:46:14,192 - INFO - [DRY RUN] Would move image.jpg-> jpg/
+2026-02-04 13:46:14,192 - INFO - File Organizer Finished
+2026-02-04 15:37:07,946 - INFO - Starting file organization
+2026-02-04 15:37:07,946 - INFO - Target diretoy:sample_data
+2026-02-04 15:37:07,946 - INFO - Dry run mode: True
+2026-02-04 15:37:07,946 - INFO - [DRY RUN] Would move reports.pdf-> pdf/
+2026-02-04 15:37:07,946 - INFO - [DRY RUN] Would move text.txt-> txt/
+2026-02-04 15:37:07,946 - INFO - [DRY RUN] Would move image.jpg-> jpg/
+2026-02-04 15:37:07,946 - INFO - File Organizer Finished
+2026-02-04 15:37:24,142 - INFO - Starting file organization
+2026-02-04 15:37:24,142 - INFO - Target diretoy:test_files
+2026-02-04 15:37:24,142 - INFO - Dry run mode: True
+2026-02-04 15:37:24,142 - INFO - [DRY RUN] Would move a.txt-> txt/
+2026-02-04 15:37:24,142 - INFO - [DRY RUN] Would move c.jpg-> jpg/
+2026-02-04 15:37:24,142 - INFO - [DRY RUN] Would move b.pdf-> pdf/
+2026-02-04 15:37:24,142 - INFO - File Organizer Finished
+2026-02-04 15:37:53,284 - INFO - Starting file organization
+2026-02-04 15:37:53,284 - INFO - Target diretoy:test_files
+2026-02-04 15:37:53,284 - INFO - Dry run mode: False
+2026-02-04 15:37:53,285 - INFO - Moved a.txt->txt/
+2026-02-04 15:37:53,285 - INFO - Moved c.jpg->jpg/
+2026-02-04 15:37:53,285 - INFO - Moved b.pdf->pdf/
+2026-02-04 15:37:53,285 - INFO - File Organizer Finished
